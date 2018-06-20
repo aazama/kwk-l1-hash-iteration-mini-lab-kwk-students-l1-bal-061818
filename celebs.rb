@@ -11,7 +11,7 @@ fav_celebrities= {"shay" => "anthony bourdaine",
    "Jesse" => "Big Time Rush",
    "Cassidy" => "Hannah Montana",}
 fav_celebrities ["Emma"]="Ed Sheeran"
-student_name= fav_celebrities.value
+student_name= fav_celebrities.values
 
 fav_celebrities.each do |student_name, celeb|
   puts"#{student_name}'s favorite celebrity is #{celeb}"
