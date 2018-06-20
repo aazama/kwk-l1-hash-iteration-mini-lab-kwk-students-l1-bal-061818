@@ -13,6 +13,6 @@ fav_celebrities= {"shay" => "anthony bourdaine",
 fav_celebrities ["Emma"]="Ed Sheeran"
 # student_name= fav_celebrities.values
 
-fav_celebrities.each do |name,celebrity|
+fav_celebrities.each do |name, celebrity|
   puts"#{student_name}'s favorite celebrity is #{celeb}"
 end
