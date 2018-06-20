@@ -10,7 +10,7 @@ fav_celebrities= {"shay" => "anthony bourdaine",
    "Anu" => "The Queen",
    "Seema" => "Allison Kim",
    "Jesse" => "Big Time Rush",
-   "Cassidy" => "Hannah Montana",
-fav_celebrities ["Emma"]="Ed Sheeran"}
+   "Cassidy" => "Hannah Montana",}
+fav_celebrities ["Emma"]="Ed Sheeran"
 
 puts fav_celebrities
