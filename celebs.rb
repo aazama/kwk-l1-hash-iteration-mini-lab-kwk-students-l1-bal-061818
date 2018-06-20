@@ -1,5 +1,5 @@
 fav_celebrities = {}
-fav_celebrities= {"shay => "anthony bourdaine",
+fav_celebrities= {"shay" => "anthony bourdaine",
   "Grace" => "Shawn Mendes",
   "Lily" => "Orlando Bloom",
   "Ava" => "Taylor Swift",
